@@ -798,11 +798,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Users/jiwonyang/Desktop/UnityStudy/Prov/Prov/Assets/ExternalAssets/GothicUI/demo.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/jiwonyang/Desktop/UnityStudy/Prov/Prov/Assets/ExternalAssets/GothicUI/demo.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/jiwonyang/Desktop/UnityStudy/Prov/Prov/Assets/ExternalAssets/GothicUI/demo.unity" root0="SKIP_HIGHLIGHTING" />
-  </component>
   <component name="ProjectId" id="20fM9mFBvqLfIQDJunChqaHq9AU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -873,6 +868,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
